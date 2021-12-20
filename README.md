@@ -1,2 +1,9 @@
 # Python-assignment
-A basic python program with implemented some basic python concept and file controlling
+A basic python program with some basic concept
+
+Concept implemented
+- If-else
+- For-loop
+- While-loop
+- Function
+- File Control
